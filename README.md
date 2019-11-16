@@ -8,6 +8,6 @@
 * (Windows OS) Run the game by double clicking the "project4.jar" file
 * (Linux OS) Run the game by executing the line "java -cp project4.jar Project4" into the terminal at the directory of the jar file
 
-## GUI-2:
+## GUI-2 (Windows Forms):
 * Implemented in WinForms using C#
 * (Windows OS) Run the game by double clicking the "GUI2.exe" file
